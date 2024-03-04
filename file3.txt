@@ -1,2 +1,48 @@
 hello
 git 
+
+cd GIT_PROJ/
+  266  ls
+  267  git status
+  268  ls
+  269  pwd
+  270  cd Desktop/
+  271  ls
+  272  cd GIT_PROJ/
+  273  ls
+  274  git status
+  275  git commit -m "first file"
+  276  git status
+  277  ls
+  278  git log
+  279  git log --oneline
+  280  ls
+  281  git ls-files
+  282  ls
+  283  git status
+  284  git add file2.txt
+  285  git status
+  286  git commit -m "second file"
+  287  ls
+  288  git ls-files
+  289  git log
+  290  git log --oneline
+  291  ls
+  292  git status
+  293  git commit -a -m "file mod"
+  294  git status
+  295  ls
+  296  git ls-files
+  297  git log
+  298  ls
+  299  git ls-files
+  300  git status
+  301  git status
+  302  git ls-files
+  303  git status
+  304  git commit -a -m "file mod1"
+  305  git log
+  306  cat file2.txt
+  307  cat file1.txt
+  308  histry
+  309  history
